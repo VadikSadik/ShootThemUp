@@ -179,3 +179,4 @@ void ASTUGameModeBase::LogPlayerInfo()
 
         PlayerState->LogInfo();
     }
+}
